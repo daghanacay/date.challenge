@@ -29,7 +29,7 @@ go to target folder and run the application
  
 output should be
 
-  - 10 10 2000, 11 11 2000, 32 days
+  - 10 10 2000, 11 11 2000, 32
 
 
 #Explanation
