@@ -34,7 +34,7 @@ output should be
 
 # Explanation
 
-- ``CodeDateParser`` parses a given string into internal date structure called ``PersonalDate``
-- ``JulianDayCalculatorFactory`` returns an algorithm to calculate Julian Day based on the input date type (Gregorian or Julian)
-- date input and printing is done in the ``Main`` class
+- `CodeDateParser` parses a given string into internal date structure called `PersonalDate`
+- `JulianDayCalculatorFactory` returns an algorithm to calculate Julian Day based on the input date type (Gregorian or Julian)
+- date input and printing is done in the `Main` class
 - Corresponding unit tests can be found under the src/test/java 
