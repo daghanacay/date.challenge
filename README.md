@@ -1,4 +1,4 @@
-#Description:
+# Description:
 
 Create an application that can read in pairs of dates in the following format -
 
@@ -32,7 +32,7 @@ output should be
   - 10 10 2000, 11 11 2000, 32
 
 
-#Explanation
+# Explanation
 
 - CodeDateParser parses a given string into internal date structure called PersonalDate
 - JulianDayCalculatorFactory returns an algorithm to calculate Julian Day based on the input date type (Gregorian or Julian)
